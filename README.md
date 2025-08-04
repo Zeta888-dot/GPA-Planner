@@ -1,1 +1,1 @@
-# GPA-Planner
+GPA-Planner
